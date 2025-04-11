@@ -1,6 +1,7 @@
-# Program make a basic calculator
-# Author @inforkgodara
+import math
 
+def squareroot(x)
+	return math.sqrt(x)
 # Function adds two numbers
 def add(first_number, second_number):
     return first_number + second_number
