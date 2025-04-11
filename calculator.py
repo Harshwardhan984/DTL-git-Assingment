@@ -1,5 +1,5 @@
 import math
-
+# simple calci
 def squareroot(x)
 	return math.sqrt(x)
 # Function adds two numbers
